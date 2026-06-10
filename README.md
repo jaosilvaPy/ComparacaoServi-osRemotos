@@ -6,14 +6,11 @@ mensurável**, quatro tecnologias de comunicação de APIs — **SOAP, REST,
 GraphQL e gRPC** — usando um mesmo domínio de aplicação: um **serviço de
 streaming de músicas**.
 
-## Integrantes
+## Integrante
 
 | Nome | Matrícula |
 |------|:---------:|
-| Leonardo Silva | 2319973 |
-| Ravi Freitas | 2316154 |
-| Luca Solon | 1910486 |
-| Luiz Henrique | 2520528 |
+|João Gabriel Silva 2310322|
 
 ## Domínio (conforme os slides do trabalho)
 
